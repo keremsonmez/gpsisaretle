@@ -1,0 +1,2 @@
+# gpsisaretle
+Kendi scriptim
